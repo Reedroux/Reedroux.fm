@@ -6,7 +6,9 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 ## Getting Started
 
-Download or fork the repo to get started!
+# Reedroux.fm
+
+[Discord Server ](https://discord.gg/bX9JQPBcpy)
 
 ### Installing
 
