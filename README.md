@@ -11,7 +11,7 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 Coded Made by ImToasting#0001 and JanCrafter#0001
 
 [Discord Server ](https://discord.gg/bX9JQPBcpy)
-[Website] https://reedroux-fm.vercel.app/#
+[Website ] (https://reedroux-fm.vercel.app/#)
 
 ### Installing
 
