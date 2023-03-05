@@ -8,7 +8,7 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 # Reedroux.fm
 
-Coded Made by ImToasting#0001
+Coded Made by ImToasting#0001 and JanCrafter#0001
 
 [Discord Server ](https://discord.gg/bX9JQPBcpy)
 
@@ -35,4 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Support me and get access to new free website templates and premium website design.
 
-<a href="https://www.buymeacoffee.com/king"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
