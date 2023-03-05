@@ -8,6 +8,8 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 # Reedroux.fm
 
+Coded Made by ImToasting#0001
+
 [Discord Server ](https://discord.gg/bX9JQPBcpy)
 
 ### Installing
